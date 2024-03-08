@@ -1,0 +1,20 @@
+@media screen and (min-width:0px) and (max-width:600px) {
+    .follow-us {
+        display: none !important;
+    }
+    .about{
+        margin-top: 700px;
+    }
+    .dnone{
+        display: none;
+       }
+}
+@media screen and (min-width:600px) and (max-width:900px) {
+    
+    .cards>.container{
+        margin-top: 380px;
+    }
+    .dnone{
+     display: none;
+    }
+}

@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+section{
+    padding: 60px 0px; 
+}
+.p{
+
+    line-height: 20px;
+    text-align: justify;
+} 
+/* navbar starts */
+.top-nav{
+    background: linear-gradient(to right ,#02be73, #02dce8) ;
+}
+/* navbar ends */
+
+/* header starts */
+
+header{
+    background: url("/websites/Website3/img/finance-1.jpg") center center no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.card>i{
+    color: #6cb19e;
+}
+.cards>.container{
+    margin-top: 80px;
+}
+/* header ends */
+
+
+/* about starts */
+.about{
+    margin-top: 190px;
+}
+.about p{
+   
+    color: gray;
+}
+/* about ends */
+
+/* cases starts */
+.cases{
+    margin-top: -20px;
+    margin-left: -150px;
+    
+    position: absolute;
+    
+}
+/* cases ends */
+
+/* pages starts */
+.pages{
+    background:linear-gradient(#000000d4,#000000d4) ,url("/websites/Website3/img/team.jpg")center center no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 60vh;
+    color: white;
+}
+/* pages ends */
